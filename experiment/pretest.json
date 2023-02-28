@@ -2,15 +2,15 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following electronic devices is used for stator voltage control in fan regulators?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "TRIC",
+        "b": "BJT",
+        "c": "MOSFET",
+        "d": "Diode"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "TRIAC (Triode for AC) is a semiconductor device widely used in power control and switching applications.It finds applications in switching, phase control, chopper designs, brilliance control in lamps, speed control of motors, etc. <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -19,20 +19,20 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "MT1, MT2, and GATE are the terminals of which of the following power electronics device?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "DIAR",
+        "b": "SCR",
+        "c": "TRIAC",
+        "d": "GTO"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "TRIACS are the components used in controlling the AC signals.It is used in high power switching applications It is used in domestic fan controlThe TRIAC is a 3-terminal semiconductor device and may be considered equivalent to two SCRS connected in antiparallel.TRIAC are bidirectional devices. It is ideal for operation utilizing AC power for switching purposes (operated at power frequency) It can control current flow for both halves in an alternating current cycle. Triac Used in acvoltage regulators, Cycloconverters, inverter",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "C",
       "difficulty": "beginner"
     }
   ]

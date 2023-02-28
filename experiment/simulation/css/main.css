@@ -1,1 +1,27 @@
-/* You CSS goes in here */
+.container{
+    height: 450px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.containers{
+    margin-top: 10px;
+    display: flex;
+    margin-left: 30px;
+ 
+}
+.control-grp{
+    margin: 16px;
+}
+.contain{
+    position: relative;
+			width: 700px;
+			height: 1200px;
+			border: 1px solid black;
+			margin: 20px auto;
+            border-radius: 20px;
+            background-color: rgb(236, 230, 235);
+            box-shadow: 10px 10px rgb(174, 17, 236);
+}
+
+
+

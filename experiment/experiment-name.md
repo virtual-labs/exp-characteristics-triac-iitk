@@ -1,1 +1,1 @@
-## Experiment name
+<h4>TO PLOT  V-I CHARACTERISTIC OF TRIAC </h4>
