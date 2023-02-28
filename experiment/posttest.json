@@ -2,29 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "With reference to TRIAC which of the following statement is WRONG?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "With reference to TRIAC which of the following statement is WRONG",
+        "b": "TRIAC gives four quadrant operations.,
+        "c": "TRIAC is a bidirectional device.",
+        "d": "TRIAC can be triggered with positive as well as a negative gate signals."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "b": "• First Quadrant Operation of Triac: The voltage at terminal MT2 is positive with respect to terminal MT, and the gate voltage is also positive with respect to the first terminal.Second Quadrant Operation of TriacThe voltage at terminal 2 is positive with respect to terminal 1 and the gate voltage is negative with respect to terminal 1.Third Quadrant Operation of Triac: The voltage of terminal 1 is positive with respect to terminal 2 and the gate voltage is negative.. Fourth Quadrant Operation of Triac: The voltage of terminal 2 is negative with respect to terminal 1 and the gate voltage is positive.",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": "Medium"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A triac is a _____ switch.?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Uniderctional",
+        "b": "Mechanical",
+        "c": "Reversal directional",
+        "d": "Bidirectional"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
