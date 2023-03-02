@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "With reference to TRIAC which of the following statement is WRONG?",
+      "question": "1. With reference to TRIAC which of the following statement is WRONG?",
       "answers": {
         "a": "With reference to TRIAC which of the following statement is WRONG",
         "b": "TRIAC gives four quadrant operations.",
@@ -19,7 +19,7 @@
       "difficulty": "Medium"
     },
     {
-      "question": "A triac is a _____ switch.?",
+      "question": "2. A triac is a _____ switch.?",
       "answers": {
         "a": "Uniderctional",
         "b": "Mechanical",

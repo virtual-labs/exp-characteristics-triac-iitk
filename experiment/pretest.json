@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which of the following electronic devices is used for stator voltage control in fan regulators?",
+      "question": "1. Which of the following electronic devices is used for stator voltage control in fan regulators?",
       "answers": {
         "a": "TRIC",
         "b": "BJT",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "MT1, MT2, and GATE are the terminals of which of the following power electronics device?",
+      "question": "2. MT1, MT2, and GATE are the terminals of which of the following power electronics device?",
       "answers": {
         "a": "DIAR",
         "b": "SCR",
