@@ -24,5 +24,5 @@ The triac is equivalent to two SCRs connected back to back. Therefore it is a bi
 <h4>The gate current can be positive or negative.</h4> The forward and reverse break-over voltage reduces with an increase in the gate current.
 <br>
 <br>
-<center><img src="images/Screenshot 2023-02-09 133019.png" height="300" width="300" ></center>
-<center>Fig. 2 Cross-Sectional Layer Structure of a Silicon Controlled Rectifier (SCR)</center>
+<center><img src="https://www.incbtech.com/images/sampledata/artigo/art0096_0001.jpg" height="300" width="300" ></center>
+<center>Fig. 2 Triode for Alternating Current</center>
