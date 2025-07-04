@@ -21,4 +21,6 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |  Akanksha Pal| Student|  Information Technology  | Rajkiya Engineering College Banda |akanksha.r.pal@gmail.com 
 2 |  Manas Verma| Student|  Information Technology  | Rajkiya Engineering College Banda |manasverma012345@gmail.com
+3 |  Ashutosh Kumar| Student|  Information Technology  | Rajkiya Engineering College Banda |2307340130016@recbanda.ac.in
+4 |  Lucky Singh| Student|  Information Technology  | Rajkiya Engineering College Banda |2307340130028@recbanda.ac.in
 
