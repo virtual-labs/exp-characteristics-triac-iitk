@@ -4,7 +4,7 @@
     {
       "question": "1. With reference to TRIAC which of the following statement is WRONG?",
       "answers": {
-        "a": "With reference to TRIAC which of the following statement is WRONG",
+        "a": "Triac conducts in only one direction.",
         "b": "TRIAC gives four quadrant operations.",
         "c": "TRIAC is a bidirectional device.",
         "d": "TRIAC can be triggered with positive as well as a negative gate signals."
@@ -15,7 +15,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
