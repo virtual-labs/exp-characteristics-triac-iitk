@@ -1,24 +1,26 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Basic Electrical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Electrical Engineering Lab
+<b> Experiment|     <b> TO PLOT  V-I CHARACTERISTIC OF TRIAC  
 
 ### About the Experiment 
+This experiment is concern about the process of ploting the V-I characterstic of TRIC.
 
-Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b>  Dr. Ashutosh Tiwari  
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> Rajkiya Engineering College Banda 
+<b> Email id|    <b>ashutosh.tiwari@recbanda.ac.in
+<b> Department | Applied Science and Humanities  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |  Akanksha Pal| Student|  Information Technology  | Rajkiya Engineering College Banda |akanksha.r.pal@gmail.com 
+2 |  Manas Verma| Student|  Information Technology  | Rajkiya Engineering College Banda |manasverma012345@gmail.com
+3 |  Ashutosh Kumar| Student|  Information Technology  | Rajkiya Engineering College Banda |2307340130016@recbanda.ac.in
+4 |  Lucky Singh| Student|  Information Technology  | Rajkiya Engineering College Banda |2307340130028@recbanda.ac.in
+
