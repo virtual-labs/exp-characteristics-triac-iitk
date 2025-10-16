@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. With reference to TRIAC which of the following statement is WRONG?",
+      "answers": {
+        "a": "TRIAC conducts in only one direction.",
+        "b": "TRIAC gives four quadrant operations.",
+        "c": "TRIAC is a bidirectional device.",
+        "d": "TRIAC can be triggered with positive as well as a negative gate signals."
+      },
+      "explanations": {
+        "a": "Option A is correct because it is the wrong statement among all. A TRIAC is a bidirectional device, meaning it conducts current in both directions during alternate half cycles of AC. Saying it conducts in only one direction is false. Hence, option A is incorrect and is the right answer to the question asked.",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    { 
+      "question": "2. A triac is a _____ switch.?",
+      "answers": {
+        "a": "Uniderctional",
+        "b": "Mechanical",
+        "c": "Reversal directional",
+        "d": "Bidirectional"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "A TRIAC (Triode for Alternating Current) is a bidirectional switch, which means it can conduct current in both directions when triggered. It is widely used for controlling AC power."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

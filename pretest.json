@@ -1,0 +1,61 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following electronic devices is used for stator voltage control in fan regulators?",
+      "answers": {
+        "a": "TRIAC",
+        "b": "BJT",
+        "c": "MOSFET",
+        "d": "Diode"
+      },
+      "explanations": {
+        "a": "TRIAC (Triode for AC) is a semiconductor device widely used in power control and switching applications.It finds applications in switching, phase control, chopper designs, brilliance control in lamps, speed control of motors, etc. <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. MT1, MT2, and GATE are the terminals of which of the following power electronics device?",
+      "answers": {
+        "a": "DIAR",
+        "b": "SCR",
+        "c": "TRIAC",
+        "d": "GTO"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "TRIACS are the components used in controlling the AC signals.It is used in high power switching applications It is used in domestic fan controlThe TRIAC is a 3-terminal semiconductor device and may be considered equivalent to two SCRS connected in antiparallel.TRIAC are bidirectional devices. It is ideal for operation utilizing AC power for switching purposes (operated at power frequency) It can control current flow for both halves in an alternating current cycle. Triac Used in acvoltage regulators, Cycloconverters, inverter",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3. The V-I characteristic curve of a TRIAC is symmetrical, showing operation in both the first quadrant (positive voltage and current) and the third quadrant (negative voltage and current). What characteristic of the TRIAC does this symmetry fundamentally represent?",
+      "answers": {
+        "a": "It is a bidirectional semiconductor switch.",
+        "b": "It can only be triggered by a positive gate pulse.",
+        "c": "It is a unidirectional semiconductor switch.",
+        "d": "It has a high forward voltage drop."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "4. In the study of the TRIAC characteristic curve, what is the difference between the Latching Current and the Holding Current ?",
+      "answers": {
+        "a": "Holding Current is required to turn the device ON, and Latching Current is required to turn it OFF.",
+        "b": "Latching Current is the minimum current required to maintain conduction after the gate pulse is removed, and  Holding Current is the minimum current below which the device turns OFF.",
+        "c": "Latching Current is typically much smaller than Holding Current​.",
+        "d": "Latching Current only applies to the negative half-cycle, and Holding Current​ only to the positive half-cycle."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
